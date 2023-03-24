@@ -23,4 +23,4 @@ To customize the behavior of the chatbot, you can modify the 'chatgpt.py' script
 ## GPT Only
 If you are only using chatgpt.py, you just need to update the 'os.environ["OPENAI_API_KEY"] = "<chatGPT_api_key>"'
 
-running 'python chatgpt.py' from command line allow you to have a conversation with the chatgpt api on you terminal directly, not through groupme.
+running 'python chatgpt.py' from command line allow you to have a conversation with the chatgpt api on your terminal directly, not through groupme.
