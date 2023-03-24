@@ -1,5 +1,5 @@
 # Project Overview
-# This project contains two Python scripts, chatgpt.py and groupmegpt.py, that work together to create a chatbot using the OpenAI GPT-3 language model. The chatbot is designed to be used in a GroupMe chat, where it listens for messages that begin with a specific bot name and then responds to those messages using the chatgpt.py script.
+This project contains two Python scripts, chatgpt.py and groupmegpt.py, that work together to create a chatbot using the OpenAI GPT-3 language model. The chatbot is designed to be used in a GroupMe chat, where it listens for messages that begin with a specific bot name and then responds to those messages using the chatgpt.py script.
 
 
 # Getting Started
